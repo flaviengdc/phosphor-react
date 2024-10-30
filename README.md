@@ -1,3 +1,5 @@
+trigger ci
+
 > [!IMPORTANT]
 > As part of a major update, we will be replacing the existing `phosphor-react` package with `@phosphor-icons/react`. We recommend using this new version, as it has improved performance and a significantly smaller bundle size. No APIs have been changed, so drop-in replacement should be straightforward. The legacy package will continue to receive maintenance, but will not be updated with new icons upstream. [Take me to the legacy version ➜](https://github.com/phosphor-icons/react/tree/legacy)
 
